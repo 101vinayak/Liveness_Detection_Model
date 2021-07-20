@@ -5,6 +5,4 @@ The Following steps are to be followed to replicate the results:
 3. Use the liveness detection file and follow teh steps, load the weights etc to check for results.
 4. The more diverse the dataset the better results.
 
-<h3 align="center">
-  <img src="result.gif">
-</h3>
+[!alt text](https://github.com/101vinayak/Liveness_Detection_Model/blob/main/result.gif)
