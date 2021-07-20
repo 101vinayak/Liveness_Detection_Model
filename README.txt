@@ -6,5 +6,5 @@ The Following steps are to be followed to replicate the results:
 4. The more diverse the dataset the better results.
 
 <h3 align="center">
-  <img src="output.avi">
+  <img src="result.gif">
 </h3>
